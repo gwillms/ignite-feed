@@ -3,16 +3,6 @@
 </div>
 
 <div align="center">
-  <img height="350" src="src/assets/images/IginiteFeed.png"  />
-</div>
-
-###
-
-<h3 align="center">Mobile</h3>
-
-###
-
-<div align="center">
   <img height="350" src="src/assets/images/IgniteFeedMobile.png"  />
 </div>
 
