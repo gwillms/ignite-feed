@@ -2,16 +2,6 @@
   <img height="60" src="https://i.imgur.com/05Qqcra.png"  />
 </div>
 
-###
-
-<h1 align="center">Ignite Feed<br><br>Ignite - React da Rocketseat.</h1>
-
-###
-
-<h3 align="center">Desktop</h3>
-
-###
-
 <div align="center">
   <img height="350" src="src/assets/images/IginiteFeed.png"  />
 </div>
@@ -49,26 +39,17 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/JoyceFatima/Ignite-Feed.git
-$ cd Ignite-Feed
+$ git clone https://github.com/gwillms/ignite-feed.git
+$ cd ignite-feed
 ```
 
 Follow the steps below:
 
 ```bash
 # Install the dependencies
-$ yarn or npm i
+$ npm i
 # Start the project
-$ yarn dev or npm run dev
+$ npm run dev
 ```
 
-The app will be available for access on your browser at http://localhost:3000
-
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
----
-
-<p align="center">Made by <a href="https://github.com/JoyceFatima">Joyce de Fátima</a></p>
+Ai é só abrir o http://localhost:3000
