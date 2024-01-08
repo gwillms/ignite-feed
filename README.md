@@ -50,7 +50,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/gwillms/ignite-feed.git
-$ cd Ignite-Feed
+$ cd ignite-feed
 ```
 
 Follow the steps below:
