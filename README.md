@@ -2,10 +2,6 @@
   <img height="60" src="https://i.imgur.com/05Qqcra.png"  />
 </div>
 
-<div align="center">
-  <img height="350" src="src/assets/images/IgniteFeedMobile.png"  />
-</div>
-
 ###
 
 <br clear="both">
