@@ -2,10 +2,6 @@
   <img height="60" src="https://i.imgur.com/05Qqcra.png"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h2 align="left">Tecnologias</h2>
 
 ###
